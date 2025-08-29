@@ -68,3 +68,36 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Book Finder
+
+This React application allows users to search for books by title using the Open Library Search API. It displays book covers, titles, authors, and other details.
+
+## Features
+
+- Search books by title
+- Display book covers and details
+- Loading and error handling
+- Responsive design
+
+## Getting Started
+
+1. Clone the repository
+2. Run `npm install` to install dependencies
+3. Run `npm start` to run the app locally
+4. Open `http://localhost:3000` in your browser to use the app
+
+## Technology Stack
+
+- React
+- CSS for styling
+- Open Library Search API
+
+## Author
+
+This project was created as part of a UI Take-Home Challenge.
+
+## Chatgpt link of approaching the project
+https://chatgpt.com/share/68adc600-6604-8005-9675-b6e8ffc78b82
+
